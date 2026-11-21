@@ -1,4 +1,4 @@
-# ShopLedger
+# ShopLedgers
 
 ShopLedger is a Node.js and Express application for a small shop. It provides a browser-based point of sale (POS), product and inventory management, order checkout, GST calculations, printable HTML invoices, customer Khata credit and settlements, and reporting.
 
